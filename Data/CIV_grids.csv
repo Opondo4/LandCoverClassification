@@ -1,0 +1,41 @@
+Variable name,Description,Data source,Original data link
+bd20,"Topsoil bulk density (Mg/m^3, soil fines)",SoilGrids,https://soilgrids.org
+bio1,"Mean annual temperature (deg. C * 10, 1979-2013)",Chelsa,http://chelsa-climate.org/downloads/
+bio7,"Mean annual temperature range (deg. C * 10, 1979-2013)",Chelsa,http://chelsa-climate.org/downloads/
+bio12,"Mean annual precipitation (mm/yr, 1979-2013)",Chelsa,http://chelsa-climate.org/downloads/
+bio15,"Mean rainfall seasonality (CV, 1979-2013)",Chelsa,http://chelsa-climate.org/downloads/
+cec20,Predicted topsoil cation exchange capacity (cmol/kg),SoilGrids,https://soilgrids.org
+dipa,Distance to internationally protected areas (km),ProtectedPlanet,http://www.protectedplanet.net/
+dni,Direct normal irradiation  (kWhr/m^2),GlobalSolarAtlas,https://globalsolaratlas.info/download/cote-d-ivoire
+dnpa,Distance to nationally protected areas (km),ProtectedPlanet,http://www.protectedplanet.net/
+dor1,Distance to major road (km),Geofabrik,https://www.geofabrik.de/data/download.html
+dor2,Distance to any known road (km),Geofabrik,https://www.geofabrik.de/data/download.html
+dows,Distance to surface water (km),SurfaceWater,https://global-surface-water.appspot.com/
+fpara,Average fAPAR (2000-2021),MODIS,https://developers.google.com/earth-engine/datasets
+fpars,SD fAPAR (2000-2021),MODIS,https://developers.google.com/earth-engine/datasets
+lcc8,Plantation de Cáfe (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lcc9,Plantation de Cacao (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lcc10,Plantation d'Hévéa (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lcc11,Plantation de Palmier à huile (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lcc12,Plantation de Coco (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lcc13,Plantation d'Anacarde (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lcc14,Aboricultures / Plantation fruititères (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lcc21,Habitat humains et infrastrutures (pixel count),BNETD,https://developers.google.com/earth-engine/datasets
+lstd,"Average day-time land surface temp. (deg. C , 2001-2020)",MODIS,https://lpdaac.usgs.gov/product_search/
+lstn,"Average night-time land surface temp. (deg. C, 2001-2020)",MODIS,https://lpdaac.usgs.gov/product_search/
+mb1,Average MOD13Q1 band 1 reflectance (2001-2021),MODIS,https://lpdaac.usgs.gov/product_search/
+mb2,Average MOD13Q1 band 2 reflectance (2001-2021),MODIS,https://lpdaac.usgs.gov/product_search/
+mb3,Average MOD13Q1 band 3 reflectance (2001-2021),MODIS,https://lpdaac.usgs.gov/product_search/
+mb7,Average MOD13Q1 band 7 reflectance (2001-2021),MODIS,https://lpdaac.usgs.gov/product_search/
+mdem,Elevation above mean sea level (m),MDEM,http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/
+mlat,Pixel latitude (deg.),MDEM,http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/
+mlon,Pixel longitude (deg.),MDEM,http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/
+nppa,Average MOD17A3HGF NPP (gC/m^2/yr *0.1; 2000 - 2021),MODIS,https://developers.google.com/earth-engine/datasets
+npps,SD MOD17A3HGF NPP (gC/m^2/yr *0.1; 2000 - 2021),MODIS,https://developers.google.com/earth-engine/datasets
+ph20,Predicted topsoil (0-20 cm) pH in water,SoilGrids,https://soilgrids.org
+sirm,Mean Strontium isotope ratio,"Wang et al, 2025",https://phys.org/news/2025-01-strontium-isotope-saharan-africa-powerful.html
+sire,SE Strtontium isotope ratio,"Wang et al, 2025",https://phys.org/news/2025-01-strontium-isotope-saharan-africa-powerful.html
+slope,Calculated slope (%),MDEM,http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/
+snd20,Predicted topsoil (0-20 cm) sand content (%),SoilGrids,https://soilgrids.org
+soc20,Predicted topsoil (0-20 cm) organic carbon content (g/kg),SoilGrids,https://soilgrids.org
+tim,Topographic index map,MDEM,http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/
