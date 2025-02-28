@@ -1,7 +1,7 @@
 Land Cover Classification Project
 
 
-This project aims to generate a model that can be used to classify land cover into three key categories: Buildings, Cropland, and Woody Vegetation Cover (>60%). The goal is to develop a machine learning model that predicts land cover types based on geospatial data and provides probability scores for each category.
+The goal is to develop a machine learning model that predicts land cover types based on geospatial data and provides probability scores for each category solely using python.
 
 Dataset:
 The dataset includes geospatial features and land cover labels for a region undergoing rapid land-use changes. The data is divided into: Training Data (train_land_cover_assignment.csv), Test Data (test_land_cover_assignment.csv): Contains features without labels, used for predictions
