@@ -3,28 +3,7 @@ Land Cover Classification Project
 
 The goal is to develop a machine learning model that predicts land cover types based on geospatial data and provides probability scores for each category solely using python.
 
-Dataset:
-The dataset includes geospatial features and land cover labels for a region undergoing rapid land-use changes. The data is divided into: Training Data (train_land_cover_assignment.csv), Test Data (test_land_cover_assignment.csv): Contains features without labels, used for predictions
-
-Methodology:
-1. Data Preprocessing
-- Load training and test datasets.
-- Handle missing values by filling them with the median.
-- Normalize numerical features using StandardScaler to ensure uniform scaling.
-- Encode categorical labels using LabelEncoder for machine learning compatibility.
-
-2. Model Training
-- Split training data into 80% training and 20% validation sets.
-- Train RandomForestClassifier for each land cover category (Buildings, Cropland, Woody Vegetation Cover).
-- Evaluate models using classification reports on the validation set.
-
-3. Prediction
-- Apply trained models to the test dataset.
-- Generate probability scores for each category.
-- Format predictions according to the required submission format.
-
-4. Submission
-- Create a submission file (submission.csv) containing the id and predicted probabilities for each land cover category.
+Overall, it is much harder to do than in Google Earth Engine but it is a good approach since we are using open source solution which don't need license
 
 Installation & Requirements
 - Have installed Python, at least version 3.9
